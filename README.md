@@ -1,2 +1,7 @@
 # cat-photo-app
-Cat Photo App | A tutorial by freeCodeCamp | [html, front-end web development, tutorial]
+
+## Cat Photo App
+- Tutorial by freeCodeCamp
+
+## Tags
+html, front-end web development, tutorial
